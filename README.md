@@ -4,7 +4,7 @@ Awesome List for Phoenix.  Compiles a list of awesome references from the az-web
 # Resources for Organization
 * Freenode - #phxtech
 * Nextplex - [http://nextplex.com/phoenix-az](http://nextplex.com/phoenix-az)
-* Az Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
+* AZ Webdevs - [https://azwebdevs.org/](https://azwebdevs.org/)
 * #yesphx - [http://yesphx.com/](http://yesphx.com/)
 * phxtech.rocks - [http://phxtech.rocks/](http://phxtech.rocks/)
 
